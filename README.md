@@ -1,6 +1,6 @@
 # Dicopetico
 
-Hi people, my name is Edilan (you can call me Dico 😁), I am studying Computer Engineering at Descomplica. I really like technology and I know some languages like C#, Java, JS and Python, but at the moment I am focusing on Python for data analysis. Currently, I work as a service desk and I am looking for a job in the data analysis field.
+Hi people, my name is Edilan (you can call me Dico 😁), I am studying Computer Engineering at Descomplica. I really like technology and I know some languages like Python, Java, JS and C#, but at the moment I am focusing on Python for data analysis. Currently, I work as a service desk and I am looking for an opportunity to grow and discover new things.
 
 ## Connect with me
 
@@ -9,10 +9,10 @@ Hi people, my name is Edilan (you can call me Dico 😁), I am studying Computer
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)
 
 <!--
